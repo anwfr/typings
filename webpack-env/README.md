@@ -1,4 +1,5 @@
-# Typings for accessing 'process.env.NODE_ENV' (value configured in webpack)
+# Typings for webpack-env
+ - 'process.env.NODE_ENV' global variable, set in webpack configuration
 
 ## Webpack configuration (webpack.config.js)
 ```javascript
